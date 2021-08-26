@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td><a href = "https://appleearth008.github.io/myPortfolio/August/recipeAngular/index.html#">Recipe</a></td>
-    <td>(TypeScript + Angular)</td>
+    <td>(TypeScript + Angular + Bootstrap@3)</td>
     <td>under construction</td>
   </tr>
 </table>
