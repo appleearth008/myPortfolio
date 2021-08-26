@@ -5,17 +5,27 @@
   <tr>
     <th scope = "col">Project Name</th>
     <th scope = "col">Languages + Frameworks</th>
+    <th scope = "col">Project Status</th>
+    <th scope = "col">@Source</th>
   </tr>
   <tr>
     <td><a href = "https://appleearth008.github.io/myPortfolio/August/GuessMyNumber/index.html">Guess My Number</a></td>
     <td>(HTML + CSS + JavaScript)</td>
+    <td>complete</td>
   </tr>
   <tr>
     <td><a href = "https://appleearth008.github.io/myPortfolio/August/Modal/index.html">Modal window</a></td>
     <td>(HTML + CSS + JavaScript)</td>
+    <td>complete</td>
   </tr>
   <tr>
     <td><a href = "https://appleearth008.github.io/myPortfolio/August/PigGame/index.html">Pig Game</a></td>
     <td>(HTML + CSS + JavaScript)</td>
+    <td>complete</td>
+  </tr>
+  <tr>
+    <td><a href = "https://appleearth008.github.io/myPortfolio/August/recipeAngular/index.html#">Recipe</a></td>
+    <td>(TypeScript + Angular)</td>
+    <td>under construction</td>
   </tr>
 </table>
