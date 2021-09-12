@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td><a href = "https://applesleep-nodefarm.azurewebsites.net/overview">Node Farm</a></td>
-    <td>(Node)</td>
+    <td>(Node) [static website] </td>
     <td>almost completed</td>
   </tr>
   
