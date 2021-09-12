@@ -28,4 +28,10 @@
     <td>(TypeScript + Angular + Bootstrap@3)</td>
     <td>under construction</td>
   </tr>
+  <tr>
+    <td><a href = "https://appleearth008.github.io/myPortfolio/September/pokemon_done/index.html">Pokemon</a></td>
+    <td>(React)</td>
+    <td>completed</td>
+  </tr>
+  
 </table>
