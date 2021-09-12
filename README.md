@@ -1,7 +1,7 @@
 # myPortfolio
 
 <table>
-  <caption>My Small Projects in August 2021</caption>
+  <caption>My Small Projects in 2021</caption>
   <tr>
     <th scope = "col">Project Name</th>
     <th scope = "col">Languages + Frameworks</th>
