@@ -33,5 +33,10 @@
     <td>(React)</td>
     <td>completed</td>
   </tr>
+  <tr>
+    <td><a href = "https://applesleep-nodefarm.azurewebsites.net/overview">Node Farm</a></td>
+    <td>(Node)</td>
+    <td>almost completed</td>
+  </tr>
   
 </table>
