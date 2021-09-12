@@ -38,5 +38,10 @@
     <td>(Node) [static website] </td>
     <td>almost completed</td>
   </tr>
+  <tr>
+    <td><a href = "https://applesleep-nodefarm.azurewebsites.net/api">Node Farm API</a></td>
+    <td>API data </td>
+    <td>completed</td>
+  </tr>
   
 </table>
