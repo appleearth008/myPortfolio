@@ -7,6 +7,7 @@
     <th scope = "col">Languages + Frameworks</th>
     <th scope = "col">Project Status</th>
     <th scope = "col">@Source</th>
+    <th scope = 'col'>Date</th>
   </tr>
   <tr>
     <td><a href = "https://appleearth008.github.io/myPortfolio/August/GuessMyNumber/index.html">Guess My Number</a></td>
@@ -48,6 +49,7 @@
     <td>(JavaScript + CSS + HTML, Node + Express + MongoDB + Mongoose + Pug)</td>
     <td>completed</td>
     <td>Udemy course created by: Jonas Schmedtmann</td>
+    <td>2021/09/23</td>
   </tr>
   
 </table>
