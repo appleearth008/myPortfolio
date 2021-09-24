@@ -43,5 +43,11 @@
     <td>API data </td>
     <td>completed</td>
   </tr>
+  <tr>
+    <td><a href = "https://natours-apple-bay.herokuapp.com/">Natours | simplified tour website</a></td>
+    <td>(JavaScript + CSS + HTML, Node + Express + MongoDB + Mongoose + Pug)</td>
+    <td>completed</td>
+    <td>Udemy course created by: Jonas Schmedtmann</td>
+  </tr>
   
 </table>
