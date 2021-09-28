@@ -8,6 +8,7 @@
     <th scope = "col">Project Status</th>
     <th scope = "col">@Source</th>
     <th scope = 'col'>Date</th>
+    <th scope = 'col'>Link to my code on GitHub</th>
   </tr>
   <tr>
     <td><a href = "https://appleearth008.github.io/myPortfolio/August/GuessMyNumber/index.html">Guess My Number</a></td>
@@ -57,6 +58,14 @@
     <td>completed</td>
     <td>Udemy course created by: Stephen Grider</td>
     <td>2021/09/26</td>
+  </tr>
+  <tr>
+    <td><a href = "https://musing-newton-197b1a.netlify.app/">A Web Framework</a></td>
+    <td>(TypeScript)</td>
+    <td>completed</td>
+    <td>Udemy course created by: Stephen Grider</td>
+    <td>2021/09/28</td>
+    <td><a href="https://github.com/appleearth008/TypeScript-webs">My Code</a></td>
   </tr>
   
 </table>
